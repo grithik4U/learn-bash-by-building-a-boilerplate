@@ -395,3 +395,6 @@ mv website website-biolerplate
 ls --color=auto
 mv website-biolerplate website-boilerplate
 ls --color=auto
+--help
+help
+cp --help
