@@ -405,3 +405,4 @@ __vsc_prompt_cmd_original
 find website-boilerplate
 clear
 echo goodbye terminal
+exit
