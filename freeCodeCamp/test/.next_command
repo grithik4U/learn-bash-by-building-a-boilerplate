@@ -96,3 +96,6 @@ ls --color=auto
 more LICENSE-MIT
 cd ..
 clear
+ls --color=auto
+cd has
+ls --color=auto
