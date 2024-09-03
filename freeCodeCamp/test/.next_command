@@ -350,3 +350,5 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
+mkdir client/asstes/fonts
+mkdir client/assets/fonts
