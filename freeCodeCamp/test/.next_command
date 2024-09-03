@@ -403,3 +403,4 @@ ls --color=auto
 find toms-website
 __vsc_prompt_cmd_original
 find website-boilerplate
+clear
