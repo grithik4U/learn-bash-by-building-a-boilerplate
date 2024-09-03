@@ -236,3 +236,65 @@ cd images
 ls --color=auto
 cd ../../..
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+find / -name footer.jpeg
+cd ..
+cd ..
+cd ..
+ls --color=auto
+find
+mkdir footer.jpeg
+move footer.jpeg client/assets/images
+ls --color=auto
+mv footer.jpeg client/assets/images
+ls --color=auto
+find -name footer.jpeg
+cd images
+ls --color=auto
+cd ..
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+rm footer.jpeg
+rmdir footer.jpeg
+ls --color=auto
+cd ..
+cd ..
+cd ..
+ls --color=auto
+touch footer.jpeg images
+ls --color=auto
+mv footer.jpeg client/assets/images
+ls --color=auto
+cd images
+ls --color=auto
+cd ../..
+cd website
+cd client
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+rm footer.jpeg
+ls --color=auto
+cd ../..
+cd ..
+ls --color=auto
+cd images
+touch footer.jpeg
+ls --color=auto
+cd ..
+mv images/footer.jpeg client/assets/images
