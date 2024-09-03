@@ -379,3 +379,4 @@ touch server.js
 touch READMEmd
 rm READMEmd
 touch README.md
+ls --color=auto
