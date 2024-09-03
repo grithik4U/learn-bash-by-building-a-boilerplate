@@ -214,3 +214,25 @@ ls --color=auto
 find -name images
 mv header.png client/assets/images
 find -name header.png
+find
+ls --color=auto
+cd images
+ls --color=auto
+mv footer.jpeg ..
+ls --color=auto
+cd ..
+ls --color=auto
+mv footer.jpeg client/src/images
+ls --color=auto
+cd client
+ls --color=auto
+cd src
+ls --color=auto
+cd..
+cd ..
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+cd ../../..
+find -name footer.jpeg
