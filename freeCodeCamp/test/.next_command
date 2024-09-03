@@ -113,3 +113,4 @@ lss
 ls --color=auto
 cd website
 ls --color=auto
+echo hello website
