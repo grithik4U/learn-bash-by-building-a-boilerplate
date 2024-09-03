@@ -99,3 +99,4 @@ clear
 ls --color=auto
 cd has
 ls --color=auto
+cd src
