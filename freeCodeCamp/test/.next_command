@@ -128,3 +128,6 @@ cd .
 touch background.ipg
 rm background.ipg
 touch background.jpg
+rm style.css
+ls --color=auto
+touch header.png
