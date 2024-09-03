@@ -191,3 +191,5 @@ find client
 find -help
 finf --help
 find --help
+fine -name index.html
+find -name index.html
