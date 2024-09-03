@@ -125,3 +125,6 @@ ls --color=auto --help
 -a
 ls --color=auto -a
 cd .
+touch background.ipg
+rm background.ipg
+touch background.jpg
