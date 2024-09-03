@@ -320,3 +320,6 @@ ls --color=auto
 mv backgraound.jpg website/images
 mv background.jpg website/images
 rm background.jpg
+cd ../../..
+ls --color=auto
+rmdir images
