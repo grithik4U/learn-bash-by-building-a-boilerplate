@@ -376,3 +376,6 @@ rm -r fonts
 ls --color=auto
 touch package.json
 touch server.js
+touch READMEmd
+rm READMEmd
+touch README.md
