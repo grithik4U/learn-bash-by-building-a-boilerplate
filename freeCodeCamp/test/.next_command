@@ -300,3 +300,23 @@ cd ..
 mv images/footer.jpeg client/assets/images
 find
 rmdir images
+mv images/background.jpg client/assets/images
+mv client/asstes/images/backgrounf.jpg images
+mv client/asstes/images/background.jpg images
+ls --color=auto
+cd images
+ls --color=auto
+ls --color=auto
+cd ..
+la
+la
+ls --color=auto
+cd client
+cd assts
+cd assets
+ls --color=auto
+cd images
+ls --color=auto
+mv backgraound.jpg website/images
+mv background.jpg website/images
+rm background.jpg
