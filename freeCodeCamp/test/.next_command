@@ -371,3 +371,5 @@ find client/assets/fonts
 find
 rm --
 rm --help
+ls --color=auto
+rm -r fonts
